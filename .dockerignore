@@ -1,0 +1,10 @@
+  .env
+  .env.*
+  .git
+  .claude
+  node_modules
+  vendor
+  tests
+  database/*.sqlite
+  storage/logs/*.log
+  bootstrap/cache/*.php
